@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;
+}
+.serif-font-header {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 1.5em;
+  font-weight: normal;
+  word-wrap: normal;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
+
+.navbar-brand {
+  font-size: large;
+}
